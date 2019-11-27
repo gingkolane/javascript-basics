@@ -1,3 +1,6 @@
 [submodule "javascript"]
 	path = javascript
 	url = git@github.com:airbnb/javascript.git
+[submodule "ruby"]
+	path = ruby
+	url = git@github.com:airbnb/ruby.git
