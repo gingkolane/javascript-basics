@@ -4,3 +4,6 @@
 [submodule "ruby"]
 	path = ruby
 	url = git@github.com:airbnb/ruby.git
+[submodule "es6-features"]
+	path = es6-features
+	url = git@github.com:gingkolane/es6-features.git
